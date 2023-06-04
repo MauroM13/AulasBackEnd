@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AulaIntegradora15/AulaIntegradora15.iml" filepath="$PROJECT_DIR$/AulaIntegradora15/AulaIntegradora15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulasBackend.iml" filepath="$PROJECT_DIR$/AulasBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvaliacaoBackend/AvaliacaoBackend.iml" filepath="$PROJECT_DIR$/AvaliacaoBackend/AvaliacaoBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mesa01/Mesa01.iml" filepath="$PROJECT_DIR$/Mesa01/Mesa01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MesaAula19/MesaAula19.iml" filepath="$PROJECT_DIR$/MesaAula19/MesaAula19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MesaAulaIntegradora3/MesaAulaIntegradora3.iml" filepath="$PROJECT_DIR$/MesaAulaIntegradora3/MesaAulaIntegradora3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MesaConsultaBD_Aula13/MesaConsultaBD.iml" filepath="$PROJECT_DIR$/MesaConsultaBD_Aula13/MesaConsultaBD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MesaDataBase/MesaDataBase.iml" filepath="$PROJECT_DIR$/MesaDataBase/MesaDataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MesaFlyweight/MesaFlyweight.iml" filepath="$PROJECT_DIR$/MesaFlyweight/MesaFlyweight.iml" />
+    </modules>
+  </component>
+</project>
